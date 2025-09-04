@@ -1,0 +1,61 @@
+Claro! Vamos analisar e responder cada uma das questões com base nos conceitos de linguagens de programação, compilação, interpretação, algoritmos e lógica de programação.
+
+---
+
+### **Questão 01**
+
+**Qual das alternativas descreve corretamente uma característica de uma linguagem de baixo nível?**
+**Resposta correta:** **c) Oferece maior controle sobre o hardware, mas é mais difícil de programar.**
+➡ Linguagens de baixo nível, como Assembly, permitem controle direto do hardware, mas exigem mais conhecimento técnico e são mais difíceis de usar.
+
+---
+
+### **Questão 02**
+
+**Assinale a alternativa que apresenta apenas linguagens de alto nível:**
+**Resposta correta:** **b) C, Java e Python**
+➡ C, Java e Python são todas linguagens de alto nível, embora C esteja mais próximo do hardware em comparação a outras.
+
+---
+
+### **Questão 03**
+
+**Qual das alternativas representa uma característica de um algoritmo compilado?**
+**Resposta correta:** **a) É traduzido para código de máquina antes de ser executado.**
+➡ Compilação converte o código-fonte em código de máquina antes da execução, ao contrário da interpretação, que é linha por linha.
+
+---
+
+### **Questão 04**
+
+**Qual é a principal vantagem de programas interpretados?**
+**Resposta correta:** **b) Podem ser executados imediatamente sem uma etapa de compilação.**
+➡ Programas interpretados, como em Python, são executados diretamente pelo interpretador, sem gerar um arquivo executável antes.
+
+---
+
+### **Questão 05**
+
+**O que acontece no processo de execução de um programa em Java?**
+**Resposta correta:** **c) O código é compilado para bytecode e, em seguida, interpretado pela JVM.**
+➡ Em Java, o código-fonte é compilado para **bytecode**, que é executado pela **Java Virtual Machine (JVM)**.
+
+---
+
+### **Questão 06**
+
+**Qual é a principal finalidade de um algoritmo?**
+**Resposta correta:** **b) Definir passos lógicos para solucionar um problema.**
+➡ Algoritmos são sequências de passos lógicos usados para resolver problemas.
+
+---
+
+### **Questão 07**
+
+**O que é lógica de programação?**
+**Resposta correta:** **c) A habilidade de organizar e estruturar pensamentos para resolver problemas de forma lógica e eficiente.**
+➡ Lógica de programação é a base para construir algoritmos eficientes e bem estruturados.
+
+---
+
+Se quiser, posso montar um gabarito direto para copiar e colar. Deseja isso?
