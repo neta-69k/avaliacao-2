@@ -1,0 +1,105 @@
+Ótimo! Abaixo está um **guia passo a passo** para realizar a **atividade prática da Aula 02**, que envolve:
+
+1. Instalar a **JDK (Java Development Kit)**
+2. Instalar a **IDE IntelliJ IDEA**
+3. Criar um **projeto Java**
+4. Criar uma **classe com o método `main`**
+5. Fazer o programa imprimir o **seu nome no console**
+
+---
+
+## ✅ 1. Instalar a JDK
+
+### Passos:
+
+1. Acesse o site oficial da Oracle:
+   👉 [https://www.oracle.com/java/technologies/javase-downloads.html](https://www.oracle.com/java/technologies/javase-downloads.html)
+
+2. Baixe a versão mais recente da **JDK (Java Development Kit)** compatível com seu sistema operacional (Windows, macOS ou Linux).
+
+3. Siga as instruções de instalação padrão do instalador.
+
+4. Após instalar, verifique se a JDK está funcionando:
+
+   * Abra o terminal ou prompt de comando
+   * Digite:
+
+     ```
+     java -version
+     ```
+
+     e
+
+     ```
+     javac -version
+     ```
+   * Se aparecer a versão do Java, está tudo certo!
+
+---
+
+## ✅ 2. Instalar a IntelliJ IDEA
+
+### Passos:
+
+1. Acesse:
+   👉 [https://www.jetbrains.com/idea/download](https://www.jetbrains.com/idea/download)
+
+2. Baixe a versão **Community** (gratuita).
+
+3. Instale normalmente.
+
+---
+
+## ✅ 3. Criar um projeto Java na IntelliJ
+
+### Passos:
+
+1. Abra a IntelliJ IDEA
+2. Clique em **"New Project"**
+3. Escolha **Java** como linguagem
+4. Selecione a JDK que você instalou
+5. Dê um nome ao projeto, por exemplo: `MeuPrimeiroProjeto`
+6. Clique em **"Finish"**
+
+---
+
+## ✅ 4. Criar a classe com o método principal
+
+### Passos:
+
+1. Dentro do projeto, clique com o botão direito na pasta `src`
+2. Vá em **New > Java Class**
+3. Nomeie a classe, por exemplo: `MeuNome`
+
+### Código Java:
+
+```java
+public class MeuNome {
+    public static void main(String[] args) {
+        System.out.println("Seu Nome Aqui");
+    }
+}
+```
+
+🔁 Substitua `"Seu Nome Aqui"` pelo **seu nome real**, por exemplo:
+
+```java
+System.out.println("Maria Silva");
+```
+
+---
+
+## ✅ 5. Executar o programa
+
+1. Clique no botão **verde** (▶️) ao lado do método `main`
+2. O console vai abrir abaixo e mostrar:
+
+   ```
+   Maria Silva
+   ```
+
+---
+
+Se quiser, posso te ajudar a tirar print da tela do código e do console (se precisar entregar a atividade com imagens). É só me dizer!
+
+Deseja ajuda com isso?
